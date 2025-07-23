@@ -1,0 +1,23 @@
+/*Arka plan rengi*/
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+/*Alt çizgi*/
+.border-bottom-1 {
+    border-bottom: 1px solid #222;
+}
+
+/*Yazı Stili*/
+body {
+  font-family: "Ultra", serif;
+}
+
+.container-1 {
+   font-family: "Neuton", serif;
+   font-size: 15px;
+}
+
+.border-top-dark {
+  border-top: 1px solid rgba(230, 230, 230, 1);
+}
